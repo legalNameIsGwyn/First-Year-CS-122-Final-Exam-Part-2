@@ -5,8 +5,8 @@ import java.util.*;
 import java.util.stream.Collectors;
 
 /**
- Name of programmer : Gwynrick Vimer D. Dollente
- Purpose of programming : Final Examination
+ Name of programmer :
+ Purpose of programming :
  */
 public class Main {
     /* Put the code for the main method here */
@@ -17,7 +17,9 @@ public class Main {
     }
     public void run(){
         List<Employee> employees = doRequirement1("res/data.csv");
-        doRequirement2(employees);
+        for(Employee employee: employees)
+            System.out.println(employee);
+//        doRequirement2(employees);
     }
     /**
      * Converts employee data file into an array
@@ -50,39 +52,45 @@ public class Main {
         }
     return employeeList;
     }
-    // Invoke doRequirement1
 
-
-
-    public void doRequirement2(List<Employee> employeeList){
-        double maleTotal = 0, femaleTotal = 0;
-        int maleCounter = 0, femaleCounter = 0;
-
-        try {
-            PrintWriter outputWriter = new PrintWriter(new FileWriter("res/data.csv"));
-            for (Employee e: employeeList){
-                if(e.getGender() == 'M' && e.isPermanent()){
-                    maleTotal += e.getSalary();
-                    outputWriter.println(e);
-                    maleCounter++;
-                }
-            }
-
-            outputWriter.println("\nThe average salary for a permanent male employee is : " + maleTotal/maleCounter);
-            outputWriter.println("");
-
-            for (Employee e: employeeList){
-                if(e.getGender() == 'F' && e.isPermanent()){
-                    femaleTotal += e.getSalary();
-                    outputWriter.println(e);
-                    femaleCounter++;
-                }
-            }
-            outputWriter.println("\nThe average salary for a permanent female employee is : " + maleTotal/maleCounter);
-        } catch (Exception exception){
-            exception.printStackTrace();
-        }
-    }
+//    /**
+//     * Creates a file with a list of permanent male and female employees and their average salaries
+//     * @param employeeList
+//     */
+//    public void doRequirement2(List<Employee> employeeList){
+//        double maleTotal = 0, femaleTotal = 0;
+//        int maleCounter = 0, femaleCounter = 0;
+//
+//        try {
+//            PrintWriter outputWriter = new PrintWriter(new FileWriter("res/req2.txt"));
+//            for (Employee e: employeeList){
+//                if(e.getGender() == 'M' && e.isPermanent()){
+//                    maleTotal += e.getSalary();
+//                    outputWriter.println(e);
+//                    maleCounter++;
+//                }
+//            }
+//
+//            outputWriter.println("\nThe average salary for a permanent male employee is : " + maleTotal/maleCounter);
+//            outputWriter.println("");
+//
+//            for (Employee e: employeeList){
+//                if(e.getGender() == 'F' && e.isPermanent()){
+//                    femaleTotal += e.getSalary();
+//                    outputWriter.println(e);
+//                    femaleCounter++;
+//                }
+//            }
+//            outputWriter.println("\nThe average salary for a permanent female employee is : " + maleTotal/maleCounter);
+//            outputWriter.close();
+//        } catch (Exception exception){
+//            exception.printStackTrace();
+//        }
+//    }
+//
+//    public void dorequirement3(){
+//
+//    }
 
 
 }
