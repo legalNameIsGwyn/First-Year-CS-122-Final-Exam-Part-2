@@ -1,0 +1,48 @@
+finexam.Employee{id='257908', name='Arjun Muhammad Wang-od Panlilio', department='Software Development Team', gender=M, age=58, employment status=Permanent, salary=30383.25, years of service=5}
+finexam.Employee{id='299334', name='Blake Jaiden Cawayan Yllana', department='Marketing', gender=M, age=28, employment status=Permanent, salary=32379.25, years of service=5}
+finexam.Employee{id='278667', name='Blas Pranav Mori Palad', department='Human Resource', gender=M, age=32, employment status=Permanent, salary=32098.5, years of service=8}
+finexam.Employee{id='302284', name='Brenden Jordon Serad Gatdula', department='IT Services', gender=M, age=33, employment status=Permanent, salary=21605.75, years of service=7}
+finexam.Employee{id='385442', name='Bruno Solomon De Pan Rivera', department='Marketing', gender=M, age=32, employment status=Permanent, salary=31622.25, years of service=8}
+finexam.Employee{id='353810', name='Carter Jamie Pagsisihan Lingao', department='Marketing', gender=M, age=24, employment status=Permanent, salary=20444.25, years of service=4}
+finexam.Employee{id='255168', name='Colby Rigoberto Koizumi Cuenca', department='IT Services', gender=M, age=38, employment status=Permanent, salary=35574.0, years of service=10}
+finexam.Employee{id='250400', name='Conrado Peter Neal Ylagan', department='Marketing', gender=M, age=36, employment status=Permanent, salary=27568.0, years of service=13}
+finexam.Employee{id='244867', name='Curtis Primeiro Dimaunahan Diwata', department='IT Services', gender=M, age=38, employment status=Permanent, salary=30083.5, years of service=10}
+finexam.Employee{id='211762', name='Dallin Cristobal Kison Masancay', department='IT Services', gender=M, age=46, employment status=Permanent, salary=36509.5, years of service=5}
+finexam.Employee{id='330680', name='Erick Colby Magan Formalouza', department='IT Services', gender=M, age=52, employment status=Permanent, salary=20887.0, years of service=14}
+finexam.Employee{id='316022', name='Ethen Roman Chincuanco Capili', department='IT Services', gender=M, age=32, employment status=Permanent, salary=32678.25, years of service=8}
+finexam.Employee{id='322691', name='Fraco Gregoria Menese Qui�ones', department='Marketing', gender=M, age=35, employment status=Permanent, salary=34356.25, years of service=8}
+finexam.Employee{id='207073', name='Grant Rai Lacandula Macasaet', department='Software Development Team', gender=M, age=39, employment status=Permanent, salary=33467.0, years of service=14}
+finexam.Employee{id='220888', name='Jack Cornelius Parker Guinto', department='IT Services', gender=M, age=32, employment status=Permanent, salary=20950.0, years of service=10}
+finexam.Employee{id='282129', name='Jermaine Everett Chiongbian Panaligan', department='Marketing', gender=M, age=23, employment status=Permanent, salary=24400.75, years of service=9}
+finexam.Employee{id='274865', name='Jon Cayden Malit Tupas', department='Software Development Team', gender=M, age=58, employment status=Permanent, salary=33286.5, years of service=10}
+finexam.Employee{id='345105', name='Judah Chandler Magtoto Macalintal', department='Human Resource', gender=M, age=58, employment status=Permanent, salary=45681.5, years of service=14}
+finexam.Employee{id='348771', name='Kristofer Israel Dura Portugal', department='Human Resource', gender=M, age=49, employment status=Permanent, salary=21402.5, years of service=6}
+finexam.Employee{id='261461', name='Lucila Isai Gray Silvestre', department='Software Development Team', gender=M, age=34, employment status=Permanent, salary=20079.75, years of service=9}
+finexam.Employee{id='375063', name='Marlon Henriqua Abucay Matias', department='Marketing', gender=M, age=48, employment status=Permanent, salary=38383.5, years of service=5}
+finexam.Employee{id='345725', name='Monte Matthew Lucman Matias', department='Human Resource', gender=M, age=53, employment status=Permanent, salary=28963.0, years of service=5}
+finexam.Employee{id='334587', name='Quintin Spencer Jubail Marasigan', department='Human Resource', gender=M, age=35, employment status=Permanent, salary=34945.0, years of service=5}
+finexam.Employee{id='271971', name='Renaldo Erick Piaoan Romero', department='Software Development Team', gender=M, age=30, employment status=Permanent, salary=30605.75, years of service=8}
+finexam.Employee{id='319329', name='Ricky Tristian Limuaco Catindig', department='Marketing', gender=M, age=42, employment status=Permanent, salary=24769.0, years of service=8}
+finexam.Employee{id='334681', name='River Carlomagno Uytengsu Bello', department='Human Resource', gender=M, age=46, employment status=Permanent, salary=39774.25, years of service=10}
+finexam.Employee{id='235484', name='Roldan Dylon Tiangco Taruc', department='Marketing', gender=M, age=34, employment status=Permanent, salary=25288.5, years of service=10}
+finexam.Employee{id='202626', name='Rufio Ronnie Deonzon Mu�oz', department='Marketing', gender=M, age=47, employment status=Permanent, salary=34429.25, years of service=10}
+finexam.Employee{id='332518', name='Skylar Darrell Abrogar Guinto', department='Software Development Team', gender=M, age=42, employment status=Permanent, salary=38137.5, years of service=7}
+finexam.Employee{id='210523', name='Tejano Mitchel Uytengsu Cruz', department='Software Development Team', gender=M, age=55, employment status=Permanent, salary=43801.75, years of service=13}
+finexam.Employee{id='291943', name='Toli Orland Chuchu Arcega', department='IT Services', gender=M, age=53, employment status=Permanent, salary=30916.5, years of service=6}
+finexam.Employee{id='333099', name='Victor Aurelius Hamid Katigbak', department='Marketing', gender=M, age=45, employment status=Permanent, salary=27528.25, years of service=13}
+finexam.Employee{id='251846', name='William William Madid Cordova', department='IT Services', gender=M, age=58, employment status=Permanent, salary=43969.25, years of service=14}
+finexam.Employee{id='334845', name='Yadiel Stefano Olan Cunanan', department='Human Resource', gender=M, age=29, employment status=Permanent, salary=29066.0, years of service=5}
+
+The average salary for a permanent male employee is : 31059.860294117647
+
+finexam.Employee{id='304603', name='Alice Cheena Lomondot Montelibano', department='Software Development Team', gender=F, age=43, employment status=Permanent, salary=29858.5, years of service=8}
+finexam.Employee{id='329953', name='Bertha Aura Panumpang Villegas', department='Marketing', gender=F, age=36, employment status=Permanent, salary=27381.0, years of service=6}
+finexam.Employee{id='253360', name='Brigida Kemina Gallora Casta�ares', department='Human Resource', gender=F, age=50, employment status=Permanent, salary=28433.25, years of service=13}
+finexam.Employee{id='380966', name='Chana Juanita Yujuico Ignacio', department='IT Services', gender=F, age=47, employment status=Permanent, salary=35157.25, years of service=10}
+finexam.Employee{id='297836', name='Ciri Janet Congco Alegre', department='Marketing', gender=F, age=57, employment status=Permanent, salary=26950.0, years of service=10}
+finexam.Employee{id='303795', name='Dana Tessa Lambert Jugueta', department='Human Resource', gender=F, age=48, employment status=Permanent, salary=29003.0, years of service=8}
+finexam.Employee{id='370944', name='Delcine Angel Cojuangco Togonon', department='IT Services', gender=F, age=49, employment status=Permanent, salary=39457.0, years of service=6}
+finexam.Employee{id='295001', name='Elizabeth Keyla Aliguyon Claridad', department='Software Development Team', gender=F, age=58, employment status=Permanent, salary=48843.75, years of service=12}
+finexam.Employee{id='388715', name='Frances Madia Quimque Escalante', department='Software Development Team', gender=F, age=57, employment status=Permanent, salary=38817.0, years of service=11}
+finexam.Employee{id='344916', name='Gaspara Jakinda Matsuda Etrone', department='Human Resource', gender=F, age=35, employment status=Permanent, salary=36621.75, years of service=14}
+finexam.Employee{id='315522', name='Juana Stephany Serad Lualhati', department='Marketing', gender
